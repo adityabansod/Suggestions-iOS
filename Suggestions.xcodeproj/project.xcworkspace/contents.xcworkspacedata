@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:LocationTracker.xcodeproj">
+      location = "self:Suggestions.xcodeproj">
    </FileRef>
 </Workspace>
